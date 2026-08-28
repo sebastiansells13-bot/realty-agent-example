@@ -1,0 +1,26 @@
+{
+  "list": [
+    {
+      "address": "123 Aspen Court",
+      "location": "[City, State]",
+      "price": "$425,000",
+      "beds": 3,
+      "baths": 2,
+      "sqft": 1850,
+      "status": "For Sale",
+      "image": "/img/listings/aspen-court.jpg",
+      "blurb": "Move-in ready with an updated kitchen and a fenced backyard."
+    },
+    {
+      "address": "456 Birchwood Lane",
+      "location": "[City, State]",
+      "price": "$589,000",
+      "beds": 4,
+      "baths": 3,
+      "sqft": 2400,
+      "status": "For Sale",
+      "image": "/img/listings/birchwood-lane.jpg",
+      "blurb": "Spacious family home with an open-concept living and dining area."
+    }
+  ]
+}
