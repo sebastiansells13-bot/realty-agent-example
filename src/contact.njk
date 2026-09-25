@@ -5,7 +5,7 @@ permalink: /contact/
 ---
 <div class="wrapper">
   <h1>Contact</h1>
-  <p>Thinking about buying or selling in {{ business.address }}? Reach out for a no-obligation conversation.</p>
+  <p>Thinking about buying or selling{% if business.serviceArea %} in {{ business.serviceArea }}{% endif %}? Reach out for a no-obligation conversation.</p>
 </div>
 <dl class="contact-details wrapper">
   {% if business.phone %}

@@ -211,6 +211,11 @@ content:
         label: Office Address
         type: string
 
+      - name: serviceArea
+        label: Service Area
+        type: string
+        description: "The city or area you serve, e.g. \"Springfield, IL\" — used in the Contact page intro"
+
       - name: license
         label: License Text
         type: string

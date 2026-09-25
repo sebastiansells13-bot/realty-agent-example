@@ -17,7 +17,7 @@ You can update your site's content without touching any code.
 - **How I Can Help** — the three service cards shown on the Home and How I Help
   pages.
 - **Testimonials** — client quotes shown on the homepage.
-- **Agent & Business Info** — your name, brokerage, tagline, contact details,
+- **Agent & Business Info** — your name, brokerage, tagline, contact details, service area,
   license text, and bio shown across the site.
 
 ## 3. Making a change
