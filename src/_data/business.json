@@ -5,6 +5,7 @@
   "phone": "(555) 555-0100",
   "email": "agent@example.com",
   "address": "[Office Address], [City, State]",
+  "serviceArea": "[City, State]",
   "license": "Licensed REALTOR® — [State] License #[Number]",
   "disclaimer": "Independently Owned and Operated",
   "bio": "With [X] years of local experience, [Agent Name] has helped dozens of [City, State] families buy and sell homes with confidence. As part of CENTURY 21's global network, they pair neighborhood-level knowledge with the resources of one of real estate's most recognized names — combining a hands-on, personal approach with the marketing reach of a national brand.",
